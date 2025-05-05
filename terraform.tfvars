@@ -1,4 +1,6 @@
+#Se define los valos concretos para las variables
 bucket_name = "hotel-reservas-web"
+aws_region = "us-east-2"
 db_username = "admin"
 db_password = "*Zyst3was*"
 db_name     = "hotel_reservas"
