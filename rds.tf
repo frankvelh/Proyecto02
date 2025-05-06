@@ -1,3 +1,4 @@
+#Provisión de base de datos MySQL en Amazon RDS
 resource "aws_db_instance" "hotel_db" {
   allocated_storage    = 20
   engine               = "mysql"
